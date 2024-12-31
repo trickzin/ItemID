@@ -852,7 +852,6 @@ const qualityMapping = { "100x100": 0, "200x200": 1, "300x300": 2 };
 function initializeQuality() {
   const storedQuality = localStorage.getItem("pngsQuality") || "200x200";
   const qualityIndex = qualityMapping[storedQuality];
-  
 
   // Validate stored quality
   if (qualityIndex !== undefined) {
