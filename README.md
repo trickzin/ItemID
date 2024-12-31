@@ -1,4 +1,3 @@
-
 <p align="center">
 	<em><code>FF-ITEM-ID</code></em>
 </p>
@@ -17,6 +16,7 @@
 <br>
 
 ## 🔗 Table of Contents
+
 - [📁 Project Structure](#-project-structure)
   - [📂 Project Index](#-project-index)
 - [🔰 Contributing](#-contributing)
@@ -56,8 +56,8 @@
         └── style.css
 ```
 
-
 ### 📂 Project Index
+
 <details open>
 	<summary><b><code>ITEMID/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
@@ -127,6 +127,7 @@
 ---
 
 ## 🔰 Contributing
+
 - **🐛 [Report Issues](https://github.com/jinix6/ItemID/issues)**: Submit bugs found or log feature requests for the `ItemID` project.
 - **💡 [Submit Pull Requests](https://github.com/jinix6/ItemID/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
